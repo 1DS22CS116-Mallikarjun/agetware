@@ -33,7 +33,7 @@ Agetware/
 
 ### 1. Clone the Repository
 ```
-git clone <repo-url>
+git clone <https://github.com/1DS22CS116-Mallikarjun/agetware.git>
 cd Agetware
 ```
 
@@ -106,4 +106,4 @@ npm start
 
 ## Authors
 - Assignment by Agetware
-- Implementation by [Your Name] 
+- Implementation by Mallikarjun 
